@@ -131,6 +131,7 @@ ul li:hover {
     background-image: url('../images/charger/map.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 50% 50%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -553,6 +554,7 @@ input{
      background-image: url('../images/charger/map.jpg');
     background-repeat: no-repeat;
     background-size: cover; 
+    background-position: 50% 50%;
     position: relative;
      z-index: -1; 
     display: flex;
@@ -842,6 +844,7 @@ input{
         background-color: #A1E577;
         top: -100%;
         left: 0;  
+        z-index: -1;
     }
     
     
@@ -922,7 +925,7 @@ input{
         background-repeat: no-repeat;
         background-size: cover; 
         position: relative;
-        z-index: -1;
+        z-index: -2;
         display: flex;
         justify-content: center;
         
@@ -937,7 +940,6 @@ input{
         align-items: center;
         position: absolute;
         top: 10%;
-        z-index: 2;
     }
     
     form{

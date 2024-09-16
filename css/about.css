@@ -142,6 +142,7 @@ ul li:hover {
     height: 90vh;
     background: url('../images/about/about_banner.jpg');
     background-repeat: no-repeat;
+    background-position: 50% 50%;
     background-position: center;
     background-size: cover;
 }
@@ -1345,7 +1346,7 @@ header{
         height: 60vh;
         background: url('../images/about/about_banner.jpg');
         background-repeat: no-repeat;
-        background-position: left;
+        background-position: 20% 70%;
         background-size: cover;
     }
     
