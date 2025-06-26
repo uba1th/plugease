@@ -528,7 +528,11 @@ button{
         justify-content: center;
         gap: 20px;
         position: absolute;
+<<<<<<< HEAD
         background-color: #0E72FF;
+=======
+        background-color: #A1E577;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
         top: -100%;
         left: 0;  
         padding: 20px 0px;
@@ -966,7 +970,11 @@ button{
         justify-content: center;
         gap: 20px;
         position: absolute;
+<<<<<<< HEAD
         background-color: #0E72FF;
+=======
+        background-color: #A1E577;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
         top: -100%;
         left: 0;  
     }

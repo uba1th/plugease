@@ -65,10 +65,13 @@ ul li {
     transition: .5s;
 }
 
+<<<<<<< HEAD
 .active a{ 
     color: #A1E577;
 }
 
+=======
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
 ul li:hover {
     padding: 10px;
     border-bottom: 3px solid #A1E577;
@@ -631,7 +634,11 @@ button{
         justify-content: center;
         gap: 20px;
         position: absolute;
+<<<<<<< HEAD
         background-color: #0E72FF;
+=======
+        background-color: #A1E577;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
         top: -100%;
         left: 0; 
         z-index: -1;
@@ -1066,7 +1073,11 @@ button{
         justify-content: center;
         gap: 20px;
         position: absolute;
+<<<<<<< HEAD
         background-color: #0E72FF;
+=======
+        background-color: #A1E577;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
         top: -100%;
         left: 0;  
     }

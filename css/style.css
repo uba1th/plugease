@@ -40,9 +40,12 @@ nav {
 
 
 
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
 ul {
     display: flex;
     width: 60%;
@@ -60,12 +63,15 @@ ul li a {
     text-decoration: none;
 }
 
+<<<<<<< HEAD
 .active a{ 
     color: #A1E577;
 }
 
 
 
+=======
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
 ul li {
     padding: 10px;
     border-bottom: 3px solid transparent;
@@ -173,8 +179,13 @@ ul li:hover {
 }
 
 .banner_content h1 {
+<<<<<<< HEAD
     width: 90%;
     font-size: 48px;
+=======
+    width: 80%;
+    font-size: 64px;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     font-weight: 900;
 }
 
@@ -206,14 +217,21 @@ ul li:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
     margin: 20px 0px;
     padding: 20px 0px;
+=======
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
 }
 
 
 .main_container_two {
     width: 90%;
+<<<<<<< HEAD
     height: 80vh;
+=======
+    height: 100vh;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -236,7 +254,11 @@ ul li:hover {
 }
 
 .service_heading h1 {
+<<<<<<< HEAD
     font-size: 32px;
+=======
+    font-size: 36px;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     font-weight: 700;
     color: #0E72FF;
     text-align: center;
@@ -257,7 +279,11 @@ ul li:hover {
 
 .service_content_one h1 {
     color: #0E72FF;
+<<<<<<< HEAD
     font-size: 28px;
+=======
+    font-size: 36px;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     font-weight: 700;
 }
 
@@ -284,7 +310,11 @@ ul li:hover {
 
 .service_content_two h1 {
     color: #0E72FF;
+<<<<<<< HEAD
     font-size: 28px;
+=======
+    font-size: 36px;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     font-weight: 700;
 }
 
@@ -312,7 +342,11 @@ ul li:hover {
 
 .service_content_three h1 {
     color: #0E72FF;
+<<<<<<< HEAD
     font-size: 28px;
+=======
+    font-size: 36px;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     font-weight: 700;
 }
 
@@ -337,7 +371,11 @@ ul li:hover {
 
 .service_content_four h1 {
     color: #0E72FF;
+<<<<<<< HEAD
     font-size: 28px;
+=======
+    font-size: 36px;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     font-weight: 700;
 }
 
@@ -354,12 +392,19 @@ ul li:hover {
 
 .improving_main {
     width: 100%;
+<<<<<<< HEAD
     height: 70vh;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 20px 0px;
     padding: 20px 0px;
+=======
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
 }
 
 .improving_sub {
@@ -408,12 +453,19 @@ ul li:hover {
 
 .charger_main {
     width: 100%;
+<<<<<<< HEAD
     height: 70vh;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 20px 0px;
     padding: 20px 0px;
+=======
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
 }
 
 .charger_sub {
@@ -466,8 +518,11 @@ ul li:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+<<<<<<< HEAD
     margin: 20px 0px;
     padding: 20px 0px;
+=======
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
 }
 
 .solution_sub {
@@ -643,7 +698,11 @@ ul li:hover {
 }
 
 .foot_content_two {
+<<<<<<< HEAD
     width: 22%;
+=======
+    width: 20%;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     height: auto;
     display: flex;
     flex-direction: column;
@@ -816,7 +875,11 @@ ul li:hover {
         justify-content: center;
         gap: 20px;
         position: absolute;
+<<<<<<< HEAD
         background-color: #0E72FF !important;
+=======
+        background-color: #A1E577 !important;
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
         top: -100%;
         left: 0;  
         z-index: -1;
@@ -1501,7 +1564,10 @@ ul li:hover {
    #nav_btn:checked~ul{
         top: 95px;
         transition: .5s;
+<<<<<<< HEAD
 
+=======
+>>>>>>> f91ac6b4f04dfdac8338d5b3a1a1a685a1ae62cf
     }
     
     #nav_btn {
